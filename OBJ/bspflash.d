@@ -1,0 +1,17 @@
+.\obj\bspflash.o: driver\BSPFLASH.c
+.\obj\bspflash.o: driver\BSPFLASH.h
+.\obj\bspflash.o: .\cmsis\stm32f10x.h
+.\obj\bspflash.o: .\cmsis\core_cm3.h
+.\obj\bspflash.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\bspflash.o: .\cmsis\system_stm32f10x.h
+.\obj\bspflash.o: .\main\stm32f10x_conf.h
+.\obj\bspflash.o: .\fwlib\inc\misc.h
+.\obj\bspflash.o: .\cmsis\stm32f10x.h
+.\obj\bspflash.o: .\fwlib\inc\stm32f10x_gpio.h
+.\obj\bspflash.o: .\fwlib\inc\stm32f10x_rcc.h
+.\obj\bspflash.o: .\fwlib\inc\stm32f10x_usart.h
+.\obj\bspflash.o: .\fwlib\inc\stm32f10x_pwr.h
+.\obj\bspflash.o: .\fwlib\inc\stm32f10x_rtc.h
+.\obj\bspflash.o: .\fwlib\inc\stm32f10x_bkp.h
+.\obj\bspflash.o: .\fwlib\inc\stm32f10x_flash.h
+.\obj\bspflash.o: driver\BSPTypeDef.h

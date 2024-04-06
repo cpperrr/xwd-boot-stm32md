@@ -1,0 +1,16 @@
+.\objects\misc.o: ..\fwlib\src\misc.c
+.\objects\misc.o: ..\fwlib\inc\misc.h
+.\objects\misc.o: ..\cmsis\stm32f10x.h
+.\objects\misc.o: ..\cmsis\core_cm3.h
+.\objects\misc.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\misc.o: ..\cmsis\system_stm32f10x.h
+.\objects\misc.o: ..\main\stm32f10x_conf.h
+.\objects\misc.o: ..\fwlib\inc\misc.h
+.\objects\misc.o: ..\fwlib\inc\stm32f10x_gpio.h
+.\objects\misc.o: ..\cmsis\stm32f10x.h
+.\objects\misc.o: ..\fwlib\inc\stm32f10x_rcc.h
+.\objects\misc.o: ..\fwlib\inc\stm32f10x_usart.h
+.\objects\misc.o: ..\fwlib\inc\stm32f10x_pwr.h
+.\objects\misc.o: ..\fwlib\inc\stm32f10x_rtc.h
+.\objects\misc.o: ..\fwlib\inc\stm32f10x_bkp.h
+.\objects\misc.o: ..\fwlib\inc\stm32f10x_flash.h

@@ -1,0 +1,16 @@
+.\objects\delay.o: ..\driver\delay.c
+.\objects\delay.o: ..\driver\delay.h
+.\objects\delay.o: ..\cmsis\stm32f10x.h
+.\objects\delay.o: ..\cmsis\core_cm3.h
+.\objects\delay.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\delay.o: ..\cmsis\system_stm32f10x.h
+.\objects\delay.o: ..\main\stm32f10x_conf.h
+.\objects\delay.o: ..\fwlib\inc\misc.h
+.\objects\delay.o: ..\cmsis\stm32f10x.h
+.\objects\delay.o: ..\fwlib\inc\stm32f10x_gpio.h
+.\objects\delay.o: ..\fwlib\inc\stm32f10x_rcc.h
+.\objects\delay.o: ..\fwlib\inc\stm32f10x_usart.h
+.\objects\delay.o: ..\fwlib\inc\stm32f10x_pwr.h
+.\objects\delay.o: ..\fwlib\inc\stm32f10x_rtc.h
+.\objects\delay.o: ..\fwlib\inc\stm32f10x_bkp.h
+.\objects\delay.o: ..\fwlib\inc\stm32f10x_flash.h

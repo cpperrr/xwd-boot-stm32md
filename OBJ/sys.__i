@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I.\driver -I.\cmsis -I.\fwlib\inc -I..\stm32_boot_uv4
+-I C:\Keil\ARM\RV31\INC
+-I C:\Keil\ARM\CMSIS\Include
+-I C:\Keil\ARM\Inc\ST\STM32F10x
+-DSTM3210X_MD -DUSE_STDPERIPH_DRIVER
+-o .\obj\sys.o --omf_browse .\obj\sys.crf --depend .\obj\sys.d "driver\sys.c"
